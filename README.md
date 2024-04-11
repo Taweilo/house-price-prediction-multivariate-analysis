@@ -1,5 +1,8 @@
 # House Price Prediction - Multivariate analysis
 
+https://colab.research.google.com/drive/1nAZGn9_5sBbEXVxopBzEN99S-vcujlBe#scrollTo=UbH4jg1TS2df
+
+
 ![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Taweilo/house-price-prediction-multivariate-analysis)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Taweilo/house-price-prediction-multivariate-analysis)
@@ -25,7 +28,7 @@ The goal of this project is to develop a predictive model for housing prices bas
 
 Data resource: 
 
-The Diabetes dataset was loaded via Colab. The dataset is from Kaggle: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview. Basic data analysis was performed to identify the shape of data, get column names, find missing values, and generate descriptive statistics. The pair plot demonstrated the relationship between variables. The distribution of the target variable was shown.
+The dataset was loaded via Colab. The dataset is from Kaggle: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview. Basic data analysis was performed to identify the shape of data, get column names, find missing values, and generate descriptive statistics. The pair plot demonstrated the relationship between variables. The distribution of the target variable was shown.
 
 * Data Dictionary
  
